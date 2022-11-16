@@ -1,3 +1,9 @@
+rust-getrandom (0.2.8-1pexip1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- John-Mark Bell <jmb@pexip.com>  Wed, 16 Nov 2022 22:14:14 +0000
+
 rust-getrandom (0.2.8-1) unstable; urgency=medium
 
   * Team upload.
